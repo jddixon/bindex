@@ -1,0 +1,3 @@
+# bindex
+
+Initial commit.
