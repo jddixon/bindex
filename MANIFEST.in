@@ -1,0 +1,11 @@
+# see http://docs.python.org/distutils/sourcedist.html
+
+include netDistrib.conf
+include countem installit
+include .gitignore CHANGES MANIFEST.in README.* TODO
+recursive-include bindex *.py
+recursive-include ghpDoc *
+global-exclude junk* .*swp 
+prune   .svn
+
+

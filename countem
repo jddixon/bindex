@@ -1,0 +1,7 @@
+cd /home/jdd/dev/py/bindex
+rm -rf build
+pySloc -v \
+    txt:.gitignore  \
+    bash:countem  bash:installit  \
+    txt:MANIFEST.in \
+    $@
