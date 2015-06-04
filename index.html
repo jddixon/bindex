@@ -1,1 +1,46 @@
-dummy index
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>bindex</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" type="text/css" href="css/main.css" />
+  <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+  <link rel="stylesheet" type="text/css" href="css/ghp.css" />
+</head>
+<body>
+<div class="content">
+<h1>bindex</h1>
+
+<p><strong>bindex</strong> (probably a temporary name) is a tool for managing indexes
+by name into a set of BuildLists stored by content key.</p>
+
+<p>A BuildList contains an indented list of names and hashes.  The names are
+typically file names.  If the hash is present it is the SHA1 or SHA256
+hash of the contents of the file.  The list of names and hashes is has
+a header which contains an RSA public key, a title, and a time stamp.
+If the BuildList has been signed, the RSA-SHA1 digital signature will
+appear at the bottom of the serialized BuildList.</p>
+
+<p>Stored by content key a BuildList is not easy to find.  A BuildList index,
+a <strong>bindex</strong>, enables BuildLists to be retrieved by the signer&rsquo;s RSA
+public key and in chronological or reverse chronological order.</p>
+  <div class="f">
+    <hr />
+    <div class="license">
+      <p><a href="LICENSE.html">LICENSE</a></p>
+    </div>
+    <div class="project">
+      github <a href="https://github.com/jddixon/bindex">      <img src="img/GitHub-Mark-32px.png" 
+        alt="link to project"  
+        style="display: inline-block; margin-left: 0 auto; margin-right: 0 auto">
+       </a> project
+    </div>
+    <div class="logo" >
+      <a href="http://www.xlattice.org">
+      <img src="img/xlattice-2014.jpg" alt="the XLattice Project" style="float: right;" >
+      </a>
+    </div>
+  </div>
+</div>
+</body>
+</html>
