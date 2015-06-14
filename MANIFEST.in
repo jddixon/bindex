@@ -2,9 +2,9 @@
 
 include netDistrib.conf
 include countem installit
-include .gitignore CHANGES MANIFEST.in README.* TODO
-recursive-include bindex *.py
+include .gitignore CHANGES LICENSE.md MANIFEST.in README.* TODO
 recursive-include ghpDoc *
+recursive-include bindex *.py
 global-exclude junk* .*swp 
 prune   .svn
 
