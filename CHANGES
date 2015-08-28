@@ -1,5 +1,8 @@
 py/bindex/CHANGES
 
+v0.0.3
+    2015-08-27
+        * improved {README/index}.md                                SLOC   58
 v0.0.2
     2015-07-26
         * revised licensing                                         SLOC   59
