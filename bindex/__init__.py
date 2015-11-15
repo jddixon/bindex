@@ -15,8 +15,8 @@ from xlattice.crypto    import (
 __all__ = [ '__version__', '__version_date__',
           ]
 
-__version__      = '0.0.3'
-__version_date__ = '2015-08-27'
+__version__      = '0.0.4'
+__version_date__ = '2015-11-14'
 
 
 
