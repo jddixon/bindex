@@ -40,5 +40,5 @@ BuildList.  It will then return either that content key or the file itself.
 
 ## Project Status
 
-Rough specification
+Rough specification.
 
