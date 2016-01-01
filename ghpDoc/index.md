@@ -10,7 +10,7 @@ hash of the contents of the file named.  If there is no hash, the name
 is that of a directory.  Any files in that directory will appear in the
 lines below, indented by one additional space.
 
-The BuildList begins with a
+The BuildList begins with
 a header which contains an RSA public key, a title, and a timestamp.
 If the BuildList has been signed, the RSA-SHA1 digital signature will
 appear at the bottom of the serialized BuildList.  The signatory
