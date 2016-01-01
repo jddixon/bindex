@@ -45,4 +45,4 @@ Rough specification.
 ## On-line Documentation
 
 More information on the **bindex** project can be found
-[here](https://jddixon.github.io/bindex).
+[here](https://jddixon.github.io/bindex)
