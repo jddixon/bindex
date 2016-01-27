@@ -1,7 +1,7 @@
 # see http://docs.python.org/distutils/sourcedist.html
 
 include netDistrib.conf
-include countem installit
+include countem installit test.all
 include .gitignore CHANGES LICENSE.md MANIFEST.in README.* TODO
 recursive-include ghpDoc *
 recursive-include bindex *.py
