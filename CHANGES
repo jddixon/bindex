@@ -1,26 +1,30 @@
 py/bindex/CHANGES
 
+v0.0.7
+    2016-01-26
+        * minor edits                                               SLOC   58
 v0.0.6
     2015-12-31
         * minor edits; fix persistent dead link     
 v0.0.5
     2015-12-20
-        * fix dead links                                            SLOC   58
+        * fix dead links                                            SLOC    58
 v0.0.4
     2015-11-14
-        * minor edits to *.md                                       SLOC   58
+        * minor edits to *.md                                       SLOC    58
 v0.0.3
     2015-08-27
-        * improved {README/index}.md                                SLOC   58
+        * improved {README/index}.md                                SLOC    58
 v0.0.2
     2015-07-26
-        * revised licensing                                         SLOC   59
+        * revised licensing                                         SLOC    59
 v0.0.1
     2015-06-15
-        * update .gitignore, add LICENSE.md                         SLOC   59
+        * update .gitignore, add LICENSE.md                         SLOC    59
 v0.0.0
     2015-05-29
         * initial commit
+
 
 
 
