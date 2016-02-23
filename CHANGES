@@ -1,5 +1,8 @@
 py/bindex/CHANGES
 
+v0.0.8
+    2016-02-23
+        * LICENSE update                                            SLOC   57
 v0.0.7
     2016-01-26
         * minor edits                                               SLOC   58
@@ -24,6 +27,7 @@ v0.0.1
 v0.0.0
     2015-05-29
         * initial commit
+
 
 
 
