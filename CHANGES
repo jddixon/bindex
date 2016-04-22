@@ -1,5 +1,11 @@
 py/bindex/CHANGES
 
+
+v0.0.10
+    2016-04-22
+        * added ./dvcz and projCfg.local                            SLOC   72
+    2016-04-08
+        * fix countem, add .langMap                                 SLOC   62
 v0.0.9
     2016-03-18
         * add and execute auto8it                                   SLOC   58
@@ -30,6 +36,8 @@ v0.0.1
 v0.0.0
     2015-05-29
         * initial commit
+
+
 
 
 
