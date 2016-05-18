@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+cd $DEV_BASE/py/bindex
+
+rm -rf build/*
+
+blListGen                                   \
+            -d ../bindex                    \
+            -1L                             \
+            -u /var/app/sharedev/U          \
+            $@
