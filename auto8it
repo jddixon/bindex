@@ -4,4 +4,4 @@ cd /home/jdd/dev/py/bindex
 
 echo "add test*.py when you have some"
 
-autopep8 -air bindex 
+autopep8 -air bindex *.py

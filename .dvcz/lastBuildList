@@ -1,0 +1,49 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM2sBgX0ChP2JriXkOxS
+e2FjHYVzBGkNvgf0vIAa7FFYZi2pWmxBAVXgl3tTiB3quqqud/MbKqdejM6gkKBK
+v8f7hlcBQLD6BLIZ/RRfhIElc+WlDVfKSnBTB4va5qTQAgvuq5i8+oMj7G8WEy5d
+7cYucWyUJMtHvT4pCDtBWeeqQ62tByWjv34Ud/+A9Mjf0leiWxM3tiToVsqIKb4s
+zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
+H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
+GQIDAQAB
+-----END RSA PUBLIC KEY-----
+bindex v0.0.13
+2016-05-18 18:02:49
+# START CONTENT #
+bindex
+ .copyright 304c14d702dff7c6c2c39729ff62aed7203b3427
+ .dvcz
+  projCfg e90b478336c6db99adbbfc7a1d99846a46edf1eb
+  projCfg.local af10855367edd5093f9d5f32e46b92641aff5972
+  version dfd57ec7419d906bcc9e57411d89b6711546cc39
+ .gitignore 274228c81d7b75ce1888567cdfb763aacfcd74db
+ CHANGES f611c17dbc0d451fb2f99dc02773e74f0dc59bb5
+ LICENSE.md ef87ef0aafe2bb3dc3b3ab29651c52e8add097b4
+ MANIFEST.in 35fa674699802cec92495df6b90f6ea06d81340b
+ README.md 8a50e9ea19bfcc5392ae9ee22d9eaf4b95f52985
+ TODO 99d387219a4b7877197c10f5be041ee4946eabfe
+ auto8it c99df76571238c978123dee020213498c942dd5c
+ bindex
+  __init__.py 8c2aa2e1002e6270b6b0c031f46a93eed8578d4f
+ bkp2U 8fc664a490c4a099b3e006c49256e706c6bbb740
+ countem fab0aa949ddd1e5769848f2ad98a1c6bd0867a7a
+ countem.new 38d627923f2185357ddc142a91f0229374997025
+ dist
+  bindex-0.0.0.tar.gz 8c88fb0c79bb77429602230f347a443975fd73e1
+  bindex-0.0.1.tar.gz 8f04b37b0b58ed637630cad4517851f7ad4ae4aa
+  bindex-0.0.10.tar.gz 8de8b05d8cf8d8ceb73b41201d536b89cb6e9739
+  bindex-0.0.2.tar.gz b2cb2ce80cd4dd1bfb193e3b984fc57442111ebc
+  bindex-0.0.3.tar.gz a83a4a4ab8a67a607aee998b996d3560eeabc317
+  bindex-0.0.4.tar.gz c7f025cbf7cc4ed244a1b4d30c201159cb5ceac7
+  bindex-0.0.5.tar.gz e6cd73a489f6e85692cf5bbd0db6f5a6113ebb23
+  bindex-0.0.7.tar.gz ed198c54113b9bd2dc3b0334d2e2f4e3e7fdf77a
+  bindex-0.0.8.tar.gz 6c07e40d1206fb17064ed1728c356c8770d0ead3
+  bindex-0.0.9.tar.gz 836d86ef6320e271ae10a5ce916fa2047b0a730b
+ ghpDoc
+  index.md 52bbf099e3b4c96eefdecce7ce20f69262339619
+ installit 324aee714ff1483484808764c1b4955327f549d0
+ setup.py d242b5be53837de1d746a5ab293ae5ca8393d3ba
+ test.all da39a3ee5e6b4b0d3255bfef95601890afd80709
+# END CONTENT #
+
+ht64ssyimHaX2Gr+8KQ9xqvHmKkfqFhhU88ZOn8O8S7IByze2yx3RjkjnjuAS9I0cD6hBr1mJdmY3XInqVMsvST7nYrhHVwSzEbnAukrWI3WTHQNX2XTeW+spu8HwbfVd/hhU2QheQh95Sia3MDxn+zChM1rxSdixWf5EvIGEEk4kaQeEXfnLD+cITECON+MVQACnQBPLsaHnIMF8DNGj4EGdDH96mBIlZarLFEsoyh37dPvn3D8VE7BdcBP+AEmL2Aje9240Ftc7qHNqqkTcgwJtubjX/p4PJIke+UFt3YzXriH7SFfjVFtP1JxUroBC8EqhiGxjhzX+R1FtY7j3g==

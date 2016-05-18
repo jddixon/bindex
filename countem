@@ -1,8 +1,12 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-cd /home/jdd/dev/py/bindex
-
-rm -rf build
-
-pySloc -v   $@  
-
+if [ ! -z "${DEV_BASE// }" ]
+then
+  cd $DEV_BASE/py/bindex
+  
+  rm -rf build/* 
+  
+  pySloc  -X dist -v $@
+else
+  echo "DEV_BASE is not defined"
+fi
