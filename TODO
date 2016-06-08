@@ -1,5 +1,8 @@
 py/bindex/TODO
 
+2016-06-03
+    * modify to use xlattice.u.UDir
+
 2015-05-29
     * ghpTheProject                                                     * DONE
     * splitTheProject                                                   * DONE
