@@ -7,25 +7,25 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-bindex v0.0.12
-2016-06-08 23:46:02
+bindex v0.0.13
+2016-06-20 20:16:30
 # START CONTENT #
 bindex
  .copyright 304c14d702dff7c6c2c39729ff62aed7203b3427
  .dvcz
-  builds fc1d7fcdd4bef32fe0ab4ce706c87b99b3aeff4f
-  lastBuildList 3160fb66c6ce676d5e786d38bcb02af3858a9892
-  projCfg efa2d12ba452e7c6bc158bc52f94379b32a21c43
+  builds ae0bb04143d8d45e9614924ca5c3c7c6d81138f9
+  lastBuildList ec90d6124a9c0241430d51a13a3e4232ff3d5b52
+  projCfg c6fc5c724af42ea24278c5be68b08155eb3ed0a9
   projCfg.local a9f0457240a0b968bb179fdd0157b6bc9be4055a
-  version 6398ed71e369759c3cd9d391b5fbfffbc7378cb5
+  version 786533f21663fffa461b6a5c4756ff5a3e2a54aa
  .gitignore 5f1a04317952b671c5828218c6efe88c2594f8fb
- CHANGES 400befc5fad54598808694eb223660cb9468cd5b
+ CHANGES 45e4e99874cce47a511ac6316d6989c7a7b3ca69
  LICENSE.md ef87ef0aafe2bb3dc3b3ab29651c52e8add097b4
  MANIFEST.in 35fa674699802cec92495df6b90f6ea06d81340b
  README.md 8a50e9ea19bfcc5392ae9ee22d9eaf4b95f52985
  TODO 0e3a7a9f760c70bb2712e6bd94cf3088592861fe
  bindex
-  __init__.py b881eded6a0f2bcdc9b0d60dbeeb2e638c5df177
+  __init__.py a4cf66fe489593b90eb892e4fdb945232be0e3c8
  bkp2U 645fc4ac0ec5511b371c0a5487f79329aea64b8c
  countem e5dabc321ac196911709c07f3ad0dfb5719905d4
  dist
@@ -34,6 +34,7 @@ bindex
   bindex-0.0.10.tar.gz 8de8b05d8cf8d8ceb73b41201d536b89cb6e9739
   bindex-0.0.11.tar.gz 0fe15ea64338859d40580cc1e391febd348bf7ca
   bindex-0.0.12.tar.gz 632d68a0510e9cce9114bb2f655d44b326410177
+  bindex-0.0.13.tar.gz 939d216b440c1fc1da9756cc7d7f9fbda8a080db
   bindex-0.0.2.tar.gz b2cb2ce80cd4dd1bfb193e3b984fc57442111ebc
   bindex-0.0.3.tar.gz a83a4a4ab8a67a607aee998b996d3560eeabc317
   bindex-0.0.4.tar.gz c7f025cbf7cc4ed244a1b4d30c201159cb5ceac7
@@ -42,6 +43,19 @@ bindex
   bindex-0.0.8.tar.gz 6c07e40d1206fb17064ed1728c356c8770d0ead3
   bindex-0.0.9.tar.gz 836d86ef6320e271ae10a5ce916fa2047b0a730b
  ghpDoc
+  css
+   LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
+   ghp.css 1d6ebe8a6cf8f61f4645a793cb087dfae2420f33
+   main.css 018ed80b8a6e6607bc7c08595fa5a7fa56853885
+   normalize.css cba40c7ce3d558d00ff79d7505ac3d348015ec9c
+  img
+   GitHub-Mark-32px.png fabe53eb72f9b6d3d47cd95aff31ffc45c2fdbf8
+   chunk.jpg de2b27e41f1547fc14b13399f5906b4303b49657
+   chunk2.jpg d0593d312dbb8ea837c17b28cb639726e29ea93b
+   cluster-with-clients.jpg c167d04c0c6b5736ef9fe4cdc3fcce1956fdea78
+   simple-cluster.jpg 6b223ddd25937c1ef75ef328f36fc3436f10bd62
+   xl-registration.jpg 15cbf951f9db173a45428b32dcec87aca83bbdf0
+   xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
   index.md 52bbf099e3b4c96eefdecce7ce20f69262339619
  installit d54edb06fa07010fe69bfb544ef8ed3b00c2baa4
  setup.py d242b5be53837de1d746a5ab293ae5ca8393d3ba
@@ -49,4 +63,4 @@ bindex
  test.all bff9c58665104f46b8c0477cf8729029fab8aea4
 # END CONTENT #
 
-bVHjWFpSzwDr4G+cepvY6AiBTfqaq2nFiwqHgiObdWYjRjLr6/zTbLws/XHNxyPN77UBxgGJ/Btrg0wcqRZL9yyykMghQV8nqVeYKGdIIVf7oUBWN91kM5/owGiTzhs9ANT6z0OOakSQmvva0a/aBT8wv1GHU2LL+8VqFjUTNSe1sE1KEfauX3hrLlFkXUB6U/a+VNpiNUlGY+H0wyhrw6/3G/SB/0b29zDB69B4ZMiX6PiRnoY0otAvm0j2BWljSKI/YXZvEyD3CdPBXYw/FtgVgZGh2M3JO0BnslqbOPvU2ozoeaATERg4Gzmna0G4+OW3MAaa5n8z6bdT833WPw==
+H5l1YnoUNqGvIjUXVwQWEvITVK6dySFTw1MW0hBONf6IY4RPOL868DsDPSpeYKPmWOLkjHgxHGvRfEK8v0D7F228E6ra0CrFmq1BpScXPYix2WKo1y9vuisxBTJjYR1AA8VmicSDMmu9vlHVCLdMxm9i0Ta9/6FLO3cGZACw1ETSmNpih75Pg5jHjGru/vBl5Uqtj4PYBq7yeoMBB3G3v5LPvtUjgIi3p08Zzs+I/zWDhih7WLQ7AUT0vKi9oVMhTeJRiaL9aJqEsJBhg9cAGA+J6HiwJUP1xUZGjKRft65rmxT0ZunGLZSgLXKo0IYNih9O6To8Ec2UqiZbGaeRLg==
