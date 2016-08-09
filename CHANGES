@@ -1,5 +1,8 @@
 py/bindex/CHANGES
 
+v0.0.14
+    2016-08-08
+        * elaborated README.md                                      SLOC  662
 v0.0.13
     2016-06-20
         * add ghpDoc/{css,img}                                      SLOC  643
@@ -44,6 +47,7 @@ v0.0.1
 v0.0.0
     2015-05-29
         * initial commit
+
 
 
 

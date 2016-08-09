@@ -2,8 +2,8 @@
 project:bindex
 package:bindex
 mainlang:py
-version:0.0.12
-versionDate:2016-06-08
+version:0.0.13
+versionDate:2016-06-20
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
