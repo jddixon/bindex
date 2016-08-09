@@ -16,6 +16,10 @@ setup(name='bindex',
       py_modules=[],
       packages=['bindex'],
       # following could be in scripts/ subdir
-      scripts=[]
-      # MISSING url
+      scripts=[],
+      # MISSING description
+      classifiers=[
+          'License :: OSI Approved :: MIT License',
+          'Programming Language :: Python :: 3',
+      ],
       )
