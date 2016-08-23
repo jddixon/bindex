@@ -1,5 +1,8 @@
 py/bindex/CHANGES
 
+v0.0.16
+    2016-08-23
+        * fix typos in gh-pages                                     SLOC  690
 v0.0.15
     2016-08-22
         * correct copyright dates, license                          SLOC  687
@@ -50,6 +53,7 @@ v0.0.1
 v0.0.0
     2015-05-29
         * initial commit
+
 
 
 
