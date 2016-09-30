@@ -1,5 +1,8 @@
 py/bindex/TODO
 
+2016-09-30
+    * drop Crytpo (=pycrypto) library
+
 2016-06-03
     * modify to use xlattice.u.UDir
 

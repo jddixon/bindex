@@ -1,5 +1,9 @@
 # bindex/__in(it__.py
 
+"""
+Build index by path into a content-keyed data store.
+"""
+
 import binascii
 import hashlib
 
@@ -16,5 +20,5 @@ from xlattice.crypto import (
 __all__ = ['__version__', '__version_date__',
            ]
 
-__version__ = '0.0.16'
-__version_date__ = '2016-08-23'
+__version__ = '0.0.17'
+__version_date__ = '2016-09-30'

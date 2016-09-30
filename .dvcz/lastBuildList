@@ -7,28 +7,29 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-bindex v0.0.16
-2016-08-23 22:56:39
+bindex v0.0.17
+2016-09-30 22:24:49
 # BEGIN CONTENT #
 bindex
  .dvcz
-  builds d724b15edabaaef402957a63c69c3389577ab881
+  builds 0554f35d55148b2a1012879af68e81ac0e052869
   copyright 304c14d702dff7c6c2c39729ff62aed7203b3427
-  lastBuildList cb5ee932e844c0763065badef20d1f9741eae342
+  lastBuildList 9ed4e38291970bfc0b439b2640ce851fb3b36670
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg a0e8ccf3c2030d724745a82d4314a7a5fa0d8e07
   projCfg.local 05cd2383d19d8707541cd91728228f6f7685f353
-  version 1b5993889aa2d26e473670b0e8ada35d60073ddc
- .gitignore 5f1a04317952b671c5828218c6efe88c2594f8fb
- CHANGES 396507750225a9c6e7d445ed9baefc09ebfcd46c
+  version 79e9be375c559cb614e84b2e9541dd374ea76a8b
+ .gitignore 2bc4bcb7826ea9b5fb999444fe18f6785df1de72
+ CHANGES c9f27ba3d13343993c1a79cd3b9c1a184b3dc992
  LICENSE-MIT.md ef87ef0aafe2bb3dc3b3ab29651c52e8add097b4
  MANIFEST.in 35fa674699802cec92495df6b90f6ea06d81340b
  README.md 0445ce89156cfb547d865b866441bb72b0ec278b
- TODO 0e3a7a9f760c70bb2712e6bd94cf3088592861fe
+ TODO f6ce7ca6f6f4cc3109cf8984f1a0696eebacfa67
  bindex
-  __init__.py 03925cd4736ac6c9da6910fb3e898e24ca8cba05
+  __init__.py 83594c245563539af6310fb513c558012ff7d4e6
  bkp2U 645fc4ac0ec5511b371c0a5487f79329aea64b8c
- countem 24fd94f149080fd8c643bed8f2463ce8ed220aeb
+ checkCoverage aee2ad887834c01a6261187aaa4f41fd66efa91f
+ countem 502f20b9eed5da9a8d49f2cb7956275f8ef333c8
  dist
   bindex-0.0.0.tar.gz 8c88fb0c79bb77429602230f347a443975fd73e1
   bindex-0.0.1.tar.gz 8f04b37b0b58ed637630cad4517851f7ad4ae4aa
@@ -39,6 +40,7 @@ bindex
   bindex-0.0.14.tar.gz a50c3c3b07672b1f4df3f201a04511ca91c81e69
   bindex-0.0.15.tar.gz 98904da335d129d021ee522075f3119693b5222f
   bindex-0.0.16.tar.gz 9ab21964b349fa66eda4999bf76036acf0448793
+  bindex-0.0.17.tar.gz dd66a5972bd477ad15be082de964f4aedbda8488
   bindex-0.0.2.tar.gz b2cb2ce80cd4dd1bfb193e3b984fc57442111ebc
   bindex-0.0.3.tar.gz a83a4a4ab8a67a607aee998b996d3560eeabc317
   bindex-0.0.4.tar.gz c7f025cbf7cc4ed244a1b4d30c201159cb5ceac7
@@ -46,6 +48,7 @@ bindex
   bindex-0.0.7.tar.gz ed198c54113b9bd2dc3b0334d2e2f4e3e7fdf77a
   bindex-0.0.8.tar.gz 6c07e40d1206fb17064ed1728c356c8770d0ead3
   bindex-0.0.9.tar.gz 836d86ef6320e271ae10a5ce916fa2047b0a730b
+ doPyLint e57389bb607934b95fbc7e994ea49a894cbce907
  ghpDoc
   css
    LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
@@ -62,9 +65,10 @@ bindex
    xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
   index.md 2e142ae4c807755979fd1f60c39ab82cee06a02b
  installit d54edb06fa07010fe69bfb544ef8ed3b00c2baa4
- setup.py f6e7846ebf6c934dfb331618d533a75a0569dc07
+ pylintrc 7854177ad9affc5c27a6176a29e328838ba1e7b3
+ setup.py 2e78e7e1c7f01e8e9235868c8c9e8f5454975d87
  styleit 00c200cee064f03044b071fc6bd73d4650a41615
  test.all bff9c58665104f46b8c0477cf8729029fab8aea4
 # END CONTENT #
 
-Mp+kpvsK9Qhv1Z1Hq2ZQ8ris3oQ3P0/4ShLShe1C5V7LigmkMcWrzLv933BYbw4wbIXs98TalM8FvfxTHTNo8RnzfX6dYyyH6V+OYBmhpDB58MaKMa0BeY/sE3O8eXewgpAFkBuw2DfJ6tkXhTCG5WBLSsxufvt8pjuCFvgLBrDgGwZQJflKCojuD8fg42ylgpfg2MLXT7EkM5GBia1ZbpJNXtdRRDTRW9DHMkwcOftoV2JkA8zi1llKfW8100rzd2zGpu5ebrjsaLKhsr9B67eC+3JCkRixScTlYjm08x15BLKwkSwfGcRnJYK8uso4PYFcdrUPa3k52LBo4EKk9A==
+meONOGdzKMu0adXDb9AI+tf/3Wv+jrlQn5sIjBz9actix5v25gaBj4Is/m/CJ82/w0KjZMx8jvCz55vyR4rUi26IhantnsDzbjfuVyo5aNquwdvTWaTUKtqpA67BfAnwjJpYu/+o3j2Qy2D5STmaaqRb/Bdz5pdTI85mqtDklAtb00jTKcOZYcLrZL6m7ByEG5ljqYj2UlZQVvddVfFYwDrZT1Zu03jNxI+E3dAoj8N9ZQ71LYtJuuXl4HdO0O/ofuVmAb45noMvvPXcfda+LNQ+mOLR3OhvJIu6TVJv56FCXGoj6OARAbyFZzi/yCGmp3o6pgwo6FsrGe8OCRfOLg==
