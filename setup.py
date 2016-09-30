@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
-# bindex/setup.py
+""" Do setup for bindex package. """
 
 import re
 from distutils.core import setup
-__version__ = re.search("__version__\s*=\s*'(.*)'",
+__version__ = re.search(r"__version__\s*=\s*'(.*)'",
                         open('bindex/__init__.py').read()).group(1)
 
 # see http://docs.python.org/distutils/setupscript.html
