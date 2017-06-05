@@ -5,7 +5,7 @@
 import re
 from distutils.core import setup
 __version__ = re.search(r"__version__\s*=\s*'(.*)'",
-                        open('bindex/__init__.py').read()).group(1)
+                        open('src/bindex/__init__.py').read()).group(1)
 
 # see http://docs.python.org/distutils/setupscript.html
 
@@ -14,7 +14,7 @@ setup(name='bindex',
       author='Jim Dixon',
       author_email='jddixon@gmail.com',
       py_modules=[],
-      packages=['bindex'],
+      packages=['src/bindex'],
       # following could be in scripts/ subdir
       scripts=[],
       description="index content-keyed files",
