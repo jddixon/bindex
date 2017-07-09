@@ -1,54 +1,34 @@
------BEGIN RSA PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM2sBgX0ChP2JriXkOxS
-e2FjHYVzBGkNvgf0vIAa7FFYZi2pWmxBAVXgl3tTiB3quqqud/MbKqdejM6gkKBK
-v8f7hlcBQLD6BLIZ/RRfhIElc+WlDVfKSnBTB4va5qTQAgvuq5i8+oMj7G8WEy5d
-7cYucWyUJMtHvT4pCDtBWeeqQ62tByWjv34Ud/+A9Mjf0leiWxM3tiToVsqIKb4s
-zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
-H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
-GQIDAQAB
------END RSA PUBLIC KEY-----
-bindex v0.0.17
-2016-09-30 22:24:49
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl9xsFHvzEsi3G8q8dUOM
+3v4WLJefw8Kv0hHBGFPFQF1WRPldwPGNdVKql8zcO52KO4hzFNHNSBCGgH8cbtAk
+mLWB78ackABFJzhY9TEbPkLnoMXJHAXQpZK/JAudSixuAZIXYtIyBWfgLaHjurAT
+6+DBgC1oQXNrfT4Fvpe1QbHMejjGb41v/r/8ck/dWDr1YzcRFIbiJPj+sQq+X0Uy
+Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
+k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
+/QIDAQAB
+-----END PUBLIC KEY-----
+bindex v0.0.19
+2017-07-09 23:02:56
 # BEGIN CONTENT #
 bindex
  .dvcz
-  builds 0554f35d55148b2a1012879af68e81ac0e052869
+  builds 5ec296d4a6d339888683ceab8913e29b1f5b562e
   copyright 304c14d702dff7c6c2c39729ff62aed7203b3427
-  lastBuildList 9ed4e38291970bfc0b439b2640ce851fb3b36670
+  lastBuildList 9a6d0b35af972f9d6a84f697f139eb6d3fdc0176
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg a0e8ccf3c2030d724745a82d4314a7a5fa0d8e07
+  projCfg 219468fef211e2b787717248ecc4ab78a2c6f71a
   projCfg.local 05cd2383d19d8707541cd91728228f6f7685f353
-  version 79e9be375c559cb614e84b2e9541dd374ea76a8b
- .gitignore 2bc4bcb7826ea9b5fb999444fe18f6785df1de72
- CHANGES c9f27ba3d13343993c1a79cd3b9c1a184b3dc992
+  version dde3c82d26098b11d0cafed29125efa4a45c730a
+ .gitignore 5185a3cb0539828e50edfc25d60c80ae291197fa
+ CHANGES 9c370ab0aceac0eef5f8016df0337473a35fee87
  LICENSE-MIT.md ef87ef0aafe2bb3dc3b3ab29651c52e8add097b4
- MANIFEST.in 35fa674699802cec92495df6b90f6ea06d81340b
+ MANIFEST.in ab66c4ba9f7b7352eb828e32839a387bf990125b
  README.md 0445ce89156cfb547d865b866441bb72b0ec278b
  TODO f6ce7ca6f6f4cc3109cf8984f1a0696eebacfa67
- bindex
-  __init__.py 83594c245563539af6310fb513c558012ff7d4e6
- bkp2U 645fc4ac0ec5511b371c0a5487f79329aea64b8c
- checkCoverage aee2ad887834c01a6261187aaa4f41fd66efa91f
- countem 502f20b9eed5da9a8d49f2cb7956275f8ef333c8
- dist
-  bindex-0.0.0.tar.gz 8c88fb0c79bb77429602230f347a443975fd73e1
-  bindex-0.0.1.tar.gz 8f04b37b0b58ed637630cad4517851f7ad4ae4aa
-  bindex-0.0.10.tar.gz 8de8b05d8cf8d8ceb73b41201d536b89cb6e9739
-  bindex-0.0.11.tar.gz 0fe15ea64338859d40580cc1e391febd348bf7ca
-  bindex-0.0.12.tar.gz 632d68a0510e9cce9114bb2f655d44b326410177
-  bindex-0.0.13.tar.gz 939d216b440c1fc1da9756cc7d7f9fbda8a080db
-  bindex-0.0.14.tar.gz a50c3c3b07672b1f4df3f201a04511ca91c81e69
-  bindex-0.0.15.tar.gz 98904da335d129d021ee522075f3119693b5222f
-  bindex-0.0.16.tar.gz 9ab21964b349fa66eda4999bf76036acf0448793
-  bindex-0.0.17.tar.gz dd66a5972bd477ad15be082de964f4aedbda8488
-  bindex-0.0.2.tar.gz b2cb2ce80cd4dd1bfb193e3b984fc57442111ebc
-  bindex-0.0.3.tar.gz a83a4a4ab8a67a607aee998b996d3560eeabc317
-  bindex-0.0.4.tar.gz c7f025cbf7cc4ed244a1b4d30c201159cb5ceac7
-  bindex-0.0.5.tar.gz e6cd73a489f6e85692cf5bbd0db6f5a6113ebb23
-  bindex-0.0.7.tar.gz ed198c54113b9bd2dc3b0334d2e2f4e3e7fdf77a
-  bindex-0.0.8.tar.gz 6c07e40d1206fb17064ed1728c356c8770d0ead3
-  bindex-0.0.9.tar.gz 836d86ef6320e271ae10a5ce916fa2047b0a730b
- doPyLint e57389bb607934b95fbc7e994ea49a894cbce907
+ bkp2U 1b199d042a012646a50702d8d6752d824310d4ee
+ checkCoverage ae235ffa1661d28b58b2874e52ba775fc0ec9a20
+ countem 3f222baef28e2e5dc806dce6165954ad6e293d82
+ doPyLint 31321ad99eb3b9ac0928a68c29a8b5b88c9472fb
  ghpDoc
   css
    LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
@@ -65,10 +45,14 @@ bindex
    xlattice-2014.jpg f185aaad06db71acd9454f31054c62c56d36f37f
   index.md 2e142ae4c807755979fd1f60c39ab82cee06a02b
  installit d54edb06fa07010fe69bfb544ef8ed3b00c2baa4
- pylintrc 7854177ad9affc5c27a6176a29e328838ba1e7b3
- setup.py 2e78e7e1c7f01e8e9235868c8c9e8f5454975d87
- styleit 00c200cee064f03044b071fc6bd73d4650a41615
- test.all bff9c58665104f46b8c0477cf8729029fab8aea4
+ pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
+ setup.py 16927d7927b4166c70495ebad6d3a6c94b6a1e9a
+ src
+  bindex
+   __init__.py 36af9ff1f485884858fe667b70040dc8aee102aa
+ styleit 36443f79bdd57422e366d019c6b73c5ef576c037
+ test.all e5d10a05222d758fc02754e8bbb4cc995f0127ae
+ tests
 # END CONTENT #
 
-meONOGdzKMu0adXDb9AI+tf/3Wv+jrlQn5sIjBz9actix5v25gaBj4Is/m/CJ82/w0KjZMx8jvCz55vyR4rUi26IhantnsDzbjfuVyo5aNquwdvTWaTUKtqpA67BfAnwjJpYu/+o3j2Qy2D5STmaaqRb/Bdz5pdTI85mqtDklAtb00jTKcOZYcLrZL6m7ByEG5ljqYj2UlZQVvddVfFYwDrZT1Zu03jNxI+E3dAoj8N9ZQ71LYtJuuXl4HdO0O/ofuVmAb45noMvvPXcfda+LNQ+mOLR3OhvJIu6TVJv56FCXGoj6OARAbyFZzi/yCGmp3o6pgwo6FsrGe8OCRfOLg==
+bitjShPO169shT9pZyK2kFvRkRGeYSktGCtIZvDhg0bMmHqJLYxsYeT6u4MKT0BcJ96IshZw3m3Z+YxWOl1oSNNdX3kiuPZrLBiUWnGUje3PYXOHuxau2uKLF/e3jnrea/Y3H8SRtt8tTH2Hb4Pyz2nBDHegavIjvMG+BiS7ynW8lPsR3npOogrBU174osmsvXWnCthizyZ8t9+sXtX1tIxSLbsaEnwlcZ8dky1A9FhE7Qas49bc4KazQ+lpLCh1P2G7/QwUGxZMTcflMNzPzak5W9pSUifygOm3DmiJQt5dDYkWXfIXuCoXY8Dz9KnaJSIHmg5Fe2MNl22Mvfv2nA==
