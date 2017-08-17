@@ -7,27 +7,31 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-bindex v0.0.19
-2017-07-09 23:02:56
+bindex v0.0.20
+2017-08-17 03:03:09
 # BEGIN CONTENT #
 bindex
+ .cache
+  v
+   cache
+    lastfailed 3f47311f1da1bb72e3ebb2b42f6bb1cc66c60255
  .dvcz
-  builds 5ec296d4a6d339888683ceab8913e29b1f5b562e
+  builds 1918ffef7336f6310a4a87206686d19280cc250d
   copyright 304c14d702dff7c6c2c39729ff62aed7203b3427
-  lastBuildList 9a6d0b35af972f9d6a84f697f139eb6d3fdc0176
+  lastBuildList 9ac1be6ba49dc935f982771ce4bf888a1558b229
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg 219468fef211e2b787717248ecc4ab78a2c6f71a
+  projCfg ac092edd15669fd95cf0554132c0b289f88f6df9
   projCfg.local 05cd2383d19d8707541cd91728228f6f7685f353
-  version dde3c82d26098b11d0cafed29125efa4a45c730a
- .gitignore 5185a3cb0539828e50edfc25d60c80ae291197fa
- CHANGES 9c370ab0aceac0eef5f8016df0337473a35fee87
+  version e9dfda84c20b8daafe9da361ce9cbb80e511595a
+ .gitignore fa249afe19714b701dd828a80bd855e2ce1b05e4
+ CHANGES 0cf2023d02e2a6a777983897fe19eea9949f367f
  LICENSE-MIT.md ef87ef0aafe2bb3dc3b3ab29651c52e8add097b4
- MANIFEST.in ab66c4ba9f7b7352eb828e32839a387bf990125b
+ MANIFEST.in 7ecdc5eedf233385e0f99ba4c6e4a42212adb46f
  README.md 0445ce89156cfb547d865b866441bb72b0ec278b
  TODO f6ce7ca6f6f4cc3109cf8984f1a0696eebacfa67
  bkp2U 1b199d042a012646a50702d8d6752d824310d4ee
  checkCoverage ae235ffa1661d28b58b2874e52ba775fc0ec9a20
- countem 3f222baef28e2e5dc806dce6165954ad6e293d82
+ countem b4f5e0f21696eb1047074b5447bc45fc521ae83a
  doPyLint 31321ad99eb3b9ac0928a68c29a8b5b88c9472fb
  ghpDoc
   css
@@ -46,13 +50,16 @@ bindex
   index.md 2e142ae4c807755979fd1f60c39ab82cee06a02b
  installit d54edb06fa07010fe69bfb544ef8ed3b00c2baa4
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py 16927d7927b4166c70495ebad6d3a6c94b6a1e9a
+ requirements.txt 8fafeba1b121849391bf2f5bbdb4d849fb4ccdeb
+ setup.py f0c1b9a0ecf85a9ab84247b4db97e6d7eadb481e
  src
   bindex
-   __init__.py 36af9ff1f485884858fe667b70040dc8aee102aa
+   __init__.py 0ad60edc3373ffc4aa9bcab6ec5fbf77f66c98fa
  styleit 36443f79bdd57422e366d019c6b73c5ef576c037
  test.all e5d10a05222d758fc02754e8bbb4cc995f0127ae
+ test_requirements.txt 1b360471fc08adf4c27ef6b2bf9514ed3ed45f73
  tests
+ tox.ini 1d4ed34f7cd571d02c4abb3f81ce33a13d530913
 # END CONTENT #
 
-bitjShPO169shT9pZyK2kFvRkRGeYSktGCtIZvDhg0bMmHqJLYxsYeT6u4MKT0BcJ96IshZw3m3Z+YxWOl1oSNNdX3kiuPZrLBiUWnGUje3PYXOHuxau2uKLF/e3jnrea/Y3H8SRtt8tTH2Hb4Pyz2nBDHegavIjvMG+BiS7ynW8lPsR3npOogrBU174osmsvXWnCthizyZ8t9+sXtX1tIxSLbsaEnwlcZ8dky1A9FhE7Qas49bc4KazQ+lpLCh1P2G7/QwUGxZMTcflMNzPzak5W9pSUifygOm3DmiJQt5dDYkWXfIXuCoXY8Dz9KnaJSIHmg5Fe2MNl22Mvfv2nA==
+TFZyqjua57Y/O0Ce2Z0QOoLAM3BsArhbx1J0h0rNmB6RVTX8rL5H4Pb1/l+pDJEN6nBKv6m+1IfxRZ39V79l1p3Cyw0lK1ns7rec30CdI702egO7c1b8UCSjUf8mGeHH1KmyojSBZH0+QDGh+QggQ7095w6M1Qu8oy5jztpfO0oiUJAgDymmUUruaeun0wRTJanMZ4luPF0AtNC9kNCPbqUhinuxP7byHj7LfdgRg1IUJ1jp1nWST/317LYYRwyP7cw7aUgKSJzaz8/zjNu8WSa5hTlESZiTOj4wf8hycvQW31r+9eK9yVZ6tjvWfZRoGXRIxu9K+WzwTpXZsOsI6w==
