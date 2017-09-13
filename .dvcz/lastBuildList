@@ -7,24 +7,24 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-bindex v0.0.20
-2017-08-17 03:03:09
+bindex v0.0.21
+2017-09-13 20:16:41
 # BEGIN CONTENT #
 bindex
  .cache
   v
    cache
-    lastfailed 3f47311f1da1bb72e3ebb2b42f6bb1cc66c60255
+    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 1918ffef7336f6310a4a87206686d19280cc250d
+  builds 71fb8e1075a8a280ebd2ac6d95d63463863e94f5
   copyright 304c14d702dff7c6c2c39729ff62aed7203b3427
-  lastBuildList 9ac1be6ba49dc935f982771ce4bf888a1558b229
+  lastBuildList ced331f4fd37478e22d52968142adeb7d8bdadad
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg ac092edd15669fd95cf0554132c0b289f88f6df9
   projCfg.local 05cd2383d19d8707541cd91728228f6f7685f353
-  version e9dfda84c20b8daafe9da361ce9cbb80e511595a
- .gitignore fa249afe19714b701dd828a80bd855e2ce1b05e4
- CHANGES 0cf2023d02e2a6a777983897fe19eea9949f367f
+  version 647307bc04d80752315bed3ed692f19fb4f2940e
+ .gitignore c8129c7133b7a7755cefd3dfc62a9af7bc306aa0
+ CHANGES 49f1e74425279c696dce5b91ba68ec5aa3111a52
  LICENSE-MIT.md ef87ef0aafe2bb3dc3b3ab29651c52e8add097b4
  MANIFEST.in 7ecdc5eedf233385e0f99ba4c6e4a42212adb46f
  README.md 0445ce89156cfb547d865b866441bb72b0ec278b
@@ -50,11 +50,11 @@ bindex
   index.md 2e142ae4c807755979fd1f60c39ab82cee06a02b
  installit d54edb06fa07010fe69bfb544ef8ed3b00c2baa4
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- requirements.txt 8fafeba1b121849391bf2f5bbdb4d849fb4ccdeb
+ requirements.txt b9bd1606c4f616e3ca24c0415402594bcffd6a9d
  setup.py f0c1b9a0ecf85a9ab84247b4db97e6d7eadb481e
  src
   bindex
-   __init__.py 0ad60edc3373ffc4aa9bcab6ec5fbf77f66c98fa
+   __init__.py db135f74733a2837b0e139b93a932e2b368374cc
  styleit 36443f79bdd57422e366d019c6b73c5ef576c037
  test.all e5d10a05222d758fc02754e8bbb4cc995f0127ae
  test_requirements.txt 1b360471fc08adf4c27ef6b2bf9514ed3ed45f73
@@ -62,4 +62,4 @@ bindex
  tox.ini 1d4ed34f7cd571d02c4abb3f81ce33a13d530913
 # END CONTENT #
 
-TFZyqjua57Y/O0Ce2Z0QOoLAM3BsArhbx1J0h0rNmB6RVTX8rL5H4Pb1/l+pDJEN6nBKv6m+1IfxRZ39V79l1p3Cyw0lK1ns7rec30CdI702egO7c1b8UCSjUf8mGeHH1KmyojSBZH0+QDGh+QggQ7095w6M1Qu8oy5jztpfO0oiUJAgDymmUUruaeun0wRTJanMZ4luPF0AtNC9kNCPbqUhinuxP7byHj7LfdgRg1IUJ1jp1nWST/317LYYRwyP7cw7aUgKSJzaz8/zjNu8WSa5hTlESZiTOj4wf8hycvQW31r+9eK9yVZ6tjvWfZRoGXRIxu9K+WzwTpXZsOsI6w==
+hQ8qqPp2ys+rLOoXwyGzaTCOZxnJKOhimbum830TAmxfKMLV5tWx5FyOvPnzU4vZCsiD4dP7BuRhDPA4PB4zX0e1QpQ75hn5vhIk2bi/9EuNtUksKvgICITDxUgcj1ap8LhSa+Z3L6kfRPH8H+LtH93P6zVulP8WHPs5FQpjHptzOAgArXOHvTpDLpS34h8Aqf29ypAMztagItNnHdoZaL3HoNSGaInalV9iP/Y96dPgXxiQU4nPtI56HitCkEppfxL6U7qo1p5WVTCJVKBj12IYgQDoDx+2P3CiejLQOFNqQIlHjjuVmlY62DpsrDnWZFOMlnigAzfFO9f0v2tz3w==
