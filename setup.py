@@ -12,7 +12,7 @@ if exists('README.md'):
         long_desc = file.read()
 
 setup(name='bindex',
-      version='0.0.20',
+      version='0.0.22',
       author='Jim Dixon',
       author_email='jddixon@gmail.com',
       long_description=long_desc,
