@@ -20,5 +20,5 @@ Build index by path into a content-keyed data store.
 __all__ = ['__version__', '__version_date__',
            ]
 
-__version__ = '0.0.21'
-__version_date__ = '2017-09-13'
+__version__ = '0.0.22'
+__version_date__ = '2017-09-23'
