@@ -1,5 +1,8 @@
 py/bindex/CHANGES
 
+v0.0.23
+    2017-12-05
+        * pep8 plus minor cleanup                                   SLOC  870
 v0.0.22
     2017-09-23
         * correct setup.py, add projConfig.toml                     SLOC  874
@@ -71,6 +74,7 @@ v0.0.1
 v0.0.0
     2015-05-29
         * initial commit
+
 
 
 
